@@ -1,26 +1,3 @@
-Curious and creative data scientist passionate about data visualization, Python programming, and innovative problem-solving through machine learning. With hands-on experience across AI, game development, and robotics, I thrive in multidisciplinary environments and leadership roles.
-
-Experiences & Roles:
-
-AI Intern @ SDK
-
-Machine Learning Engineering Intern @ SHAI
-
-Ambassador @ WiDS (Women in Data Science)
-
-Game Development Intern @ Jordan Gaming Lab
-
-Project Department Member @ Robotics Team
-
-PR Member @ IEEE AESS YU
-
-Team Leader (Organization) @ Nova Team
-
-Ambassador @ Huawei
-
-Curation, Creative & Logistics Team Member @ TEDxYU
-
-Always exploring new ways to apply data and AI to real-world challenges.
 [LinkedIn](https://www.linkedin.com/in/majd-bdour/)
 # 💫 About Me:
 Curious and creative data scientist passionate about data visualization, Python programming, and innovative problem-solving through machine learning. With hands-on experience across AI, game development, and robotics, I thrive in multidisciplinary environments and leadership roles.<br><br>Experiences & Roles:<br><br>AI Intern @ SDK<br><br>Machine Learning Engineering Intern @ SHAI<br><br>Ambassador @ WiDS (Women in Data Science)<br><br>Game Development Intern @ Jordan Gaming Lab<br><br>Project Department Member @ Robotics Team<br><br>PR Member @ IEEE AESS YU<br><br>Team Leader (Organization) @ Nova Team<br><br>Ambassador @ Huawei<br><br>Curation, Creative & Logistics Team Member @ TEDxYU<br><br>Always exploring new ways to apply data and AI to real-world challenges.
