@@ -2,13 +2,6 @@
 
 ### A passionate Data science and AI developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=majd-joy&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majd-joy&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 - 🌱 I'm currently learning **RAG systems **
 
 - 👯 I'm looking to collaborate on **Open source projects**
