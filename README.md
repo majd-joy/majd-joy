@@ -2,10 +2,13 @@
 
 ### A passionate Data science and AI developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majd-joy&label=Profile views&color=0e75b6&style=flat" alt="majd-joy" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=majd-joy&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majd-joy" alt="majd-joy" /></a> </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=majd-joy&theme=flat&no-frame=true&margin-w=10" alt="trophies" />
+</p>
 - 🌱 I'm currently learning **RAG systems **
 
 - 👯 I'm looking to collaborate on **Open source projects**
